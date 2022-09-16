@@ -1,0 +1,30 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.intro {
+    color: black;
+    height: 20vh;
+
+}
+.typing {
+    margin: 10px;
+    position: relative;
+    
+}
+
+
+
+button{
+    float: center;
+    margin-top: 8px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: lavender;
+    
+}
